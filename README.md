@@ -1,5 +1,5 @@
 # medbook-dev-app
-medbook-dev-app
+Health Records Management System
 
 - Deployed on WampServer V3.2
 
